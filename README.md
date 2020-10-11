@@ -1,8 +1,8 @@
 # My-Portfolio
 
-![alt_text](./assets/images/about-me.png)
-![alt_text](./assets/images/portfolio.png)
-![alt_text](./assets/images/contact.png)
+![alt_text](./Assets/Images/about-me.png)
+![alt_text](./Assets/Images/portfolio.png)
+![alt_text](./Assets/Images/contact.png)
 
 ## About the Project
 
